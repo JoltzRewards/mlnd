@@ -1,5 +1,5 @@
-//go:build chainrpc
-// +build chainrpc
+//go:build !chainrpc
+// +build !chainrpc
 
 package main
 

@@ -1,5 +1,5 @@
-//go:build !peersrpc
-// +build !peersrpc
+//go:build peersrpc
+// +build peersrpc
 
 package peersrpc
 

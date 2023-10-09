@@ -1,5 +1,5 @@
-//go:build autopilotrpc
-// +build autopilotrpc
+//go:build !autopilotrpc
+// +build !autopilotrpc
 
 package autopilotrpc
 
