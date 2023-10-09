@@ -1,5 +1,5 @@
-//go:build !signrpc
-// +build !signrpc
+//go:build nop
+// +build nop
 
 package signrpc
 

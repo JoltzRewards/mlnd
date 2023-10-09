@@ -1,5 +1,5 @@
-//go:build invoicesrpc
-// +build invoicesrpc
+// removed: //go:build invoicesrpc
+// removed: // +build invoicesrpc
 
 package main
 

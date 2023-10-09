@@ -1,5 +1,5 @@
-//go:build neutrinorpc
-// +build neutrinorpc
+// removed: //go:build neutrinorpc
+// removed: // +build neutrinorpc
 
 package main
 

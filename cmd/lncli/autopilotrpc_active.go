@@ -1,5 +1,5 @@
-//go:build autopilotrpc
-// +build autopilotrpc
+// removed: //go:build autopilotrpc
+// removed: // +build autopilotrpc
 
 package main
 

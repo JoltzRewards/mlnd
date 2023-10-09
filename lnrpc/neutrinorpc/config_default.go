@@ -1,5 +1,5 @@
-//go:build !neutrinorpc
-// +build !neutrinorpc
+//go:build nop
+// +build nop
 
 package neutrinorpc
 

@@ -1,5 +1,5 @@
-//go:build !walletrpc
-// +build !walletrpc
+//go:build nop
+// +build nop
 
 package walletrpc
 

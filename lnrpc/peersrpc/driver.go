@@ -1,5 +1,5 @@
-//go:build peersrpc
-// +build peersrpc
+// removed: //go:build peersrpc
+// removed: // +build peersrpc
 
 package peersrpc
 

@@ -1,5 +1,5 @@
-//go:build chainrpc
-// +build chainrpc
+// removed: //go:build chainrpc
+// removed: // +build chainrpc
 
 package chainrpc
 

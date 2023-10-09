@@ -1,5 +1,5 @@
-//go:build watchtowerrpc
-// +build watchtowerrpc
+// removed: //go:build watchtowerrpc
+// removed: // +build watchtowerrpc
 
 package watchtowerrpc
 

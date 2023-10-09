@@ -1,5 +1,5 @@
-//go:build signrpc
-// +build signrpc
+// removed: //go:build signrpc
+// removed: // +build signrpc
 
 package signrpc
 

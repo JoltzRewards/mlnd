@@ -1,5 +1,5 @@
-//go:build !chainrpc
-// +build !chainrpc
+//go:build nop
+// +build nop
 
 package main
 
